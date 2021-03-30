@@ -4,12 +4,12 @@
 
 ### Hello and Welcome to my GitHub 👋
 
-My name is [Bernard Wittgen](bernardwittgen.nl), and i am a Full Stack Developer :notes: based in Amsterdam!
-I love creating Applications and Websites and on my free time i love producing electronic music! I love creating in general!!!
+My name is [Bernard Wittgen](bernardwittgen.nl), and i am a Full Stack Developer :dart: based in Amsterdam!
+I love creating Applications and Websites and on my free time i love creating (electronic) music! I love creating in general!!!
 
-**What am i doing these days...:**
+**The gist of me:**
 
-- 👨🏽‍💻 I’m currently working on a full stack application called, Synth. A front-end build upon my own API full of synthesizer history!
+- 👨🏽‍💻 I’m  working on a full stack application called, Synth. A front-end build upon my own API full of synthesizer history!
 - 🌱 I’m currently learning Typescript and Ruby.
 - 💬 Ask me about anything, I am happy to chat with people.
 - 📫 How to reach me: [bernard.devworks@gmail.com]();
@@ -41,6 +41,9 @@ I love creating Applications and Websites and on my free time i love producing e
 
 ## My GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardDev&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
