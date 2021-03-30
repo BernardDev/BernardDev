@@ -44,7 +44,7 @@ I love creating Applications and Websites and on my free time i love producing e
 
 ---
 
-## My HorecApp Project
+## My Synthesizer Project
 
 
 ---
