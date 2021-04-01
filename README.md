@@ -8,36 +8,10 @@ I'm a allround JavaScript web developer mostly working with React, Express & Pos
 
 I'm looking to join a development team. As a team you can get stuff done right! I feel at best in a social and innovative environment. 
 
-- 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers!
+- 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers! You can find it [here](https://github.com/BernardDev/BernardDev/synth-api)
 - 🌱 In the process of learning Typescript and Ruby.
 - 📫 How to reach me: [bernard.devworks@gmail.com]();
 - 📝 This is my : [Resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
-
----
-
-```javascript
-const Bernard = {
-  origin: "Netherlands",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, PostgreSQL, Styled_Components, Jest],
-  education: {
-    conceptDevelopment: "Bacholer in Concept Development with specialization Graphic / Interaction Design",
-    audioEngineering: "Certificated Aduio Engineer and Music Producer",
-  },
-  hobbies: [
-    "music-production",
-    "designing",
-    "boat-rides",
-    "inline-skating",
-    "chess",
-  ],
-  challenges: {
-   ...
-  },
-};
-```
-
----
 
 **Languages and Tools:**
 
@@ -65,4 +39,3 @@ const Bernard = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardDev&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL)](https://github.com/anuraghazra/github-readme-stats)
