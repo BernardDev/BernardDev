@@ -4,9 +4,9 @@
 
 ### Hey there, this is the gist of me 👋
 
-I'm a allround JavaScript web developer mostly working with React, Express & Postgres, though I never shy away from a new challange. Coming from a graphics design background with a focus on interaction, I have a lot of affinity with the front-end, but I feel comfortable programming API's as well. I finished a bachelor in Concept & Product Development. Worked freelance and in broadcasting. Making electronic music is what ties my life together. As a certified audio engineer with a music studio stuffed with synths, I can safely say that I'm also a bit of an audio geek as well. 
+I'm a allround JavaScript web developer mostly working with React, Express & Postgres, though I never shy away from a new challange. Coming from a graphics design background with a focus on interaction, I have a lot of affinity with the front-end, but I feel comfortable programming API's as well. I finished a bachelor in Concept & Product Development. Worked as a designer freelance and in broadcasting. Making electronic music is what ties my life together. I'm a certified audio engineer with a studio stuffed with synths, so I can safely say that I'm also a bit of an audio geek.
 
-I'm looking to join a development team. I feel at my best in a social and inspiring environment. As a team you can get stuff done!
+I'm looking to join a development team. As a team you can get stuff done right! I feel at best in a social and innovative environment. 
 
 - 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers!
 - 🌱 In the process of learning Typescript and Ruby.
