@@ -8,7 +8,7 @@ I'm a allround JavaScript web developer mostly working with React, Express & Pos
 
 I'm looking to join a development team. As a team you can get stuff done right! I feel at best in a social and innovative environment. 
 
-- 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers! You can find it [here](https://github.com/BernardDev/BernardDev/synth-api)
+- 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers! You can find it [here](https://github.com/BernardDev/synth-api)
 - 🌱 In the process of learning Typescript and Ruby.
 - 📫 How to reach me: [bernard.devworks@gmail.com]();
 - 📝 This is my : [Resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
