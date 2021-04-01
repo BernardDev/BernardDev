@@ -13,6 +13,10 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 - 📫 How to reach me: [bernard.devworks@gmail.com]();
 - 📝 This is my : [Resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
 
+<a href="https://github.com/BernardDev/synth-api" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=synth-api&theme=radical" />
+</a>
+
 **Languages and Tools:**
 
 
