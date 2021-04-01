@@ -15,8 +15,6 @@ I'm looking to join a development team. I feel at my best in a social and inspir
 
 ---
 
-### A little more about me...
-
 ```javascript
 const Bernard = {
   origin: "Netherlands",
@@ -31,7 +29,7 @@ const Bernard = {
     "designing",
     "boat-rides",
     "inline-skating",
-    "series",
+    "chess",
   ],
   challenges: {
    ...
@@ -40,8 +38,6 @@ const Bernard = {
 ```
 
 ---
-
-
 
 **Languages and Tools:**
 
