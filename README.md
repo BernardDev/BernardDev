@@ -1,4 +1,4 @@
-[![Social banner for Bernrd](https://github.com/BernardDev/images/myGif.gif)](bernardwittgen.nl)
+<p align="center"><img src="animatedName.gif" alt="drawing" width="540"/> </p>
 
 ---
 
