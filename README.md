@@ -16,6 +16,8 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 
 <br/>
 
+<br/>
+
 <a href="https://github.com/BernardDev/Synthesizer-API" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-API&theme=default" />
 </a>
@@ -23,6 +25,8 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 <a href="https://github.com/BernardDev/Synthesizer-directory" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-directory&theme=default" />
 </a>
+
+<br/>
 
 <br/>
 
