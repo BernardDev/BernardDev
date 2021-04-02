@@ -1,10 +1,11 @@
 <p align="center"><img src="animatedName.gif" alt="drawing" width="540"/> </p>
 
----
 
 ### Hey there, this is the gist of me 👋
 
-I'm a allround JavaScript web developer mostly working with React, Express & Postgres, though I never shy away from a new challange. Coming from a graphics design background with a focus on interaction, I have a lot of affinity with the front-end, but I feel comfortable programming API's as well. I finished a bachelor in Concept & Product Development. Worked as a designer freelance and in broadcasting. Making electronic music is what ties my life together. I'm a certified audio engineer with a studio stuffed with synths, so I can safely say that I'm also a bit of an audio geek.
+I'm a allround JavaScript web developer mostly working with React, Express & Postgres, though I never shy away from a new challange. Coming from a graphics design background with a focus on interaction, I have a lot of affinity with the front-end, but I feel comfortable programming API's as well. 
+
+I finished a bachelor in Concept & Product Development. Worked as a designer freelance and in broadcasting. Making electronic music is what ties my life together. I'm a certified audio engineer with a studio stuffed with synths, so I can safely say that I'm also a bit of an audio geek.
 
 I'm looking to join a development team. As a team you can get stuff done right! I feel at best in a social and innovative environment. 
 
@@ -13,6 +14,8 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 - 📫 How to reach me: [bernard.devworks@gmail.com]();
 - 📝 This is my : [Resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
 
+<br/>
+
 <a href="https://github.com/BernardDev/Synthesizer-API" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-API&theme=default" />
 </a>
@@ -20,6 +23,8 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 <a href="https://github.com/BernardDev/Synthesizer-directory" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-directory&theme=default" />
 </a>
+
+<br/>
 
 **Languages and Tools:**
 
@@ -39,9 +44,7 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-
----
+<br/>
 
 ## My GitHub Stats
 
