@@ -50,6 +50,8 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 
 <br/>
 
+<br/>
+
 ### My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardDev&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
