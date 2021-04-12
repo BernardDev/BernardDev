@@ -12,7 +12,7 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 - 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers! You can find it [here](https://github.com/BernardDev/synth-api)
 - 🌱 In the process of learning Typescript and Ruby.
 - 📫 How to reach me: [bernard.devworks@gmail.com]();
-- 📝 This is my : [Resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
+- 📝 This is my [resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
 
 <br/>
 
