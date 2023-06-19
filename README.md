@@ -3,15 +3,15 @@
 
 ### Hey there, this is the gist of me 👋
 
-I'm a allround JavaScript web developer mostly working with React, Express & Postgres, though I never shy away from a new challange. Coming from a graphics design background with a focus on interaction, I have a lot of affinity with the front-end, but I feel comfortable programming API's as well. 
+I'm am a developer with passion for creating innovative solutions. With a background in frontend development and a knack for problem-solving, I thrive on turning ideas into functional and user-friendly applications. 
 
-I finished a bachelor in Concept & Product Development. Worked as a designer freelance and in broadcasting. Making electronic music is what ties my life together. I'm a certified audio engineer with a studio stuffed with synths, so I can safely say that I'm also a bit of an audio geek.
+For two years I have been developing web-based application driving real-world impact at a digital agency in Amsterdam. Now I am ready for next steps. 
 
-I'm looking to join a development team. As a team you can get stuff done right! I feel at best in a social and innovative environment. 
+Up for|grep!
 
-- 👨🏽‍💻 I’m working on a API with appealing front-end mapping the history of synthesizers! You can find it [here](https://github.com/BernardDev/synth-api)
-- 🌱 In the process of learning Typescript and Ruby.
-- 📫 How to reach me: [bernard.devworks@gmail.com]();
+- 👨🏽‍💻 I’m working on a web app with Strapi and NextJS. You can find it [here](https://github.com/BernardDev/white-label-restaurant-app)
+- 🌱 In the process of learning NextJS
+- 📫 How to reach me: [bernard.devworks@gmail.com];
 - 📝 This is my [resume](https://issuu.com/bwittgen/docs/2021_resume_bernardwittgen)
 
 <br/>
@@ -19,11 +19,11 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 <br/>
 
 <a href="https://github.com/BernardDev/Synthesizer-API" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-API&theme=default" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-API&theme=default" />
 </a>
 
 <a href="https://github.com/BernardDev/Synthesizer-directory" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-directory&theme=default" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BernardDev&repo=Synthesizer-directory&theme=default" />
 </a>
 
 <br/>
@@ -53,5 +53,5 @@ I'm looking to join a development team. As a team you can get stuff done right! 
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardDev&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BernardDev&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
