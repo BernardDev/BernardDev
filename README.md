@@ -9,7 +9,7 @@ For two years I have been developing web-based application driving real-world im
 
 Up for|grep!
 
-- 👨🏽‍💻 I’m working on a web app with Strapi and NextJS. You can find it [here](https://github.com/BernardDev/white-label-restaurant-app)
+- 👨🏽‍💻 I’m working on a web app with Strapi and NextJS
 - 🌱 In the process of learning NextJS
 - 📫 How to reach me: [bernard.devworks@gmail.com];
 - 📝 This is my [resume](https://issuu.com/bwittgen/docs/2023_resume_bernardwittgen_v4)
