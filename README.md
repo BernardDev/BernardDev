@@ -12,7 +12,7 @@ Up for|grep!
 - 👨🏽‍💻 I’m working on a web app with Strapi and NextJS. You can find it [here](https://github.com/BernardDev/white-label-restaurant-app)
 - 🌱 In the process of learning NextJS
 - 📫 How to reach me: [bernard.devworks@gmail.com];
-- 📝 This is my [resume](https://issuu.com/bwittgen/docs/2023_resume_bernardwittgen_v3)
+- 📝 This is my [resume](https://issuu.com/bwittgen/docs/2023_resume_bernardwittgen_v4)
 
 <br/>
 
