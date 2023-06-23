@@ -3,9 +3,9 @@
 
 ### Hey there, this is the gist of me 👋
 
-I'm a developer with passion for creating innovative solutions. With a background in frontend development and a knack for problem-solving, I thrive on turning ideas into functional and user-friendly applications. 
+I'm a Dutch developer with a passion for creating innovative solutions. With a background in front-end development and a knack for problem-solving, I thrive on turning ideas into functional and user-friendly applications. 
 
-For two years I have been developing web-based application driving real-world impact at a digital agency in Amsterdam. Now I am ready for next steps. 
+For two years I have been developing web-based applications driving real-world impact at a digital agency in Amsterdam. Now I am ready for next steps. 
 
 Up for|grep!
 
