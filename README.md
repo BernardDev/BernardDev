@@ -3,11 +3,7 @@
 
 ### Hey there, this is the gist of me 👋
 
-I'm a Dutch developer with a passion for creating innovative solutions. With a background in front-end development and a knack for problem-solving, I thrive on turning ideas into functional and user-friendly applications. 
-
-For two years I have been developing web-based applications driving real-world impact at a digital agency in Amsterdam. Now I am ready for next steps. 
-
-Up for|grep!
+I'm a frontend developer from the Netherlands. With a design background, I specialize in transforming ideas into user-friendly web applications (mobile/websites). I spent two years at a digital agency in Amsterdam, working on impactful websites and apps. Recently, I've taken on a new role at a SAAS company, focusing on the frontend of advanced incentive marketing technologies.
 
 - 👨🏽‍💻 I’m working on a web app with Strapi and NextJS
 - 🌱 In the process of learning NextJS
