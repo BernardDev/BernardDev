@@ -3,10 +3,13 @@
 
 ### Hey there, this is the gist of me 👋
 
-I'm a frontend developer from the Netherlands. With a design background, I specialize in transforming ideas into user-friendly web applications (mobile/websites). I spent two years at a digital agency in Amsterdam, working on impactful websites and apps. Recently, I've taken on a new role at a SAAS company, focusing on the frontend of advanced incentive marketing technologies.
+I'm a frontend developer from the Netherlands. With a design background, I specialize in transforming ideas into user-friendly websites and mobile apps. 
 
-- 👨🏽‍💻 I’m working on a web app with Strapi and NextJS
-- 🌱 In the process of learning NextJS
+I spent two years at a digital agency in Amsterdam. Here I worked on on projects with a positive impact, very custom solutions building upon a headless Drupal setup in React and React Native.
+
+For about a year I've taken the roles as sole frontend developer at a small SAAS company focusing on
+advanced incentive marketing techonlogies. Currently I'm deep into the development of a whitelabel loyalty app. Now creating content management system that intergrates our dashboard to the app.
+
 - 📫 How to reach me: [bernard.devworks@gmail.com];
 - 📝 This is my [resume](https://issuu.com/bwittgen/docs/2023_resume_bernardwittgen_v4)
 
@@ -27,7 +30,7 @@ I'm a frontend developer from the Netherlands. With a design background, I speci
 <br/>
 
 ### Languages and Tools:
-
+Flutter
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
