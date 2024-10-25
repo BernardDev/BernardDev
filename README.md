@@ -5,10 +5,10 @@
 
 I'm a frontend developer from the Netherlands. With a design background, I specialize in transforming ideas into user-friendly websites and mobile apps. 
 
-I spent two years at a digital agency in Amsterdam. Here I worked on on projects with a positive impact, very custom solutions building upon a headless Drupal setup in React and React Native.
+I spent two years at a Digital Agency in Amsterdam. Here I worked on projects with a positive impact, very custom solutions building upon a headless Drupal setup in React and React Native.
 
 For about a year I've taken the roles as sole frontend developer at a small SAAS company focusing on
-advanced incentive marketing techonlogies. Currently I'm deep into the development of a whitelabel loyalty app. Now creating content management system that intergrates our dashboard to the app.
+advanced incentive marketing technologies. Currently I'm deep into the development of a whitelabel loyalty app. Now creating content management system that integrates our dashboard to the app.
 
 - 📫 How to reach me: [bernard.devworks@gmail.com];
 - 📝 This is my [resume](https://issuu.com/bwittgen/docs/2023_resume_bernardwittgen_v4)
